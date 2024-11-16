@@ -1,0 +1,12 @@
+python-multipart
+torch
+transformers
+deep-translator
+torchaudio
+streamlit
+mysql-connector-python
+sounddevice
+scipy
+
+# If sounddevice not work properly then
+# sudo apt-get install libportaudio2 or sudo apt-get install libasound-dev
